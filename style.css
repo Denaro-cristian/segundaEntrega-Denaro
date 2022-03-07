@@ -4,6 +4,15 @@ body{
 }
 
 
+nav.navbar{
+    background-color: #E49D25;
+    width: 100%;
+}
+
+.navbar li:hover .dropdown-menu{
+    visibility: visible;
+}
+
 .main__cuerpo-gral{
     width: 100%;
     font-family: 'Nunito', sans-serif;
